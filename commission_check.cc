@@ -1,6 +1,13 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+This program has the task to check how much would you get
+from what your store has earned, and the percentage of it
+
+*/
+
 int main() {
     double sales_amount;
     double commission_amount;
